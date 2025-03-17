@@ -41,7 +41,7 @@ if OWNER_ID not in SUDO:
 PORT = os.environ.get("PORT", "8108")
 
 # Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://srirangasai57:filestore1cluster0.pnucx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://srirangasai57:filestore1@cluster0.pnucx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
