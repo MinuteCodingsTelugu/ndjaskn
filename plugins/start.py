@@ -514,6 +514,12 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton('- Mᴀɪɴ Cʜᴀɴɴᴇʟ -', url='https://t.me/Animes2u')
                 ],
                 [
+                    InlineKeyboardButton('- Oɴɢᴏɪɴɢ Aɴɪᴍᴇ -', url='https://t.me/Animes3u')
+                ],
+                [
+                   InlineKeyboardButton("◇ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴs ◇", url='https://t.me/Animes2u_Professor_Bot')
+                ],
+                [
                    InlineKeyboardButton("⚡ ᴀʙᴏᴜᴛ ᴍᴇ", callback_data = "about"),
                    InlineKeyboardButton("🍁 ᴄʟᴏꜱᴇ", callback_data = "close")
                 ]
