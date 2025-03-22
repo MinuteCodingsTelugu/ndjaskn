@@ -12,7 +12,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     if data == "about":
         abt_msg = f'<b>⟦★⟧ Hi There {query.from_user.mention}</b>!\n' \
                   f'<b>┏━━━━━━━❪❂❫━━━━━━━━</b>\n' \
-                  f'◈ <b>Dᴇᴠᴇʟᴏᴘᴇʀ</b>: <b><a href="https://t.me/LuffyDSunGodBot">ꜱᴀɪ ɴᴀʟʟᴀᴍɪʟʟɪ</a></b>\n' \
+                  f'◈ <b>Dᴇᴠᴇʟᴏᴘᴇʀ</b>: <b><a href="https://t.me/LuffyDSunGodBot">sʀɪɴɪᴠᴀs</a></b>\n' \
                   f'◈ <b>Oɴɢᴏɪɴɢ Cʜᴀɴɴᴇʟ</b>: <b><a href="https://t.me/animes3u">Oɴɢᴏɪɴɢ Aɴɪᴍᴇ</a></b>\n' \
                   f'◈ <b>Mᴀɪɴ Cʜᴀɴɴᴇʟ</b>: <b><a href="https://t.me/animes2u">Mᴀɪɴ Cʜᴀɴɴᴇʟ</a></b>\n' \
                   f'<b>┗━━━━━━━❪❂❫━━━━━━━━</b>'
